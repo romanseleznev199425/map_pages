@@ -1,0 +1,22 @@
+.section__form {
+    max-width: 1420px;
+    margin: 0 auto;
+}
+
+.section__form .block__form {
+    display: block;
+    max-width: 500px;
+    padding: 30px 0;
+}
+
+.section__form .form__block {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+.section__form .form__block .form__btn {
+    margin-top: 20px;
+}
